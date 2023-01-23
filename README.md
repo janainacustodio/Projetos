@@ -12,3 +12,6 @@ Calcula o índice de massa corpórea com base nos parâmetros internacionais da*
 * [Cálculo de média](https://janainacustodio.github.io/calculo-de-media/media.html)
 *Desenvolvido em JavaScript, HTML5 e CSS3.*
 
+* [Site Android](https://janainacustodio.github.io/site-android/android.html)
+*Site proposto como Desafio pelo* **Curso em Vídeo**
+
