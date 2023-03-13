@@ -15,9 +15,12 @@ Calcula o índice de massa corpórea com base nos parâmetros internacionais da*
 *Criado com HTML5 e CSS3*
 
 * [Home Page](https://janainacustodio.github.io/Home-Page/#) 
-*Criada com  HTML5,CSS3, Bootstrap.*
+*Criada com  HTML5, CSS3, Bootstrap.*
 
 * [Formulário de Login](https://janainacustodio.github.io/formulario/) 
-*Criado com  HTML5,CSS3 e JavaScript.*
+*Criado com  HTML5, CSS3 e JavaScript.*
+
+* [To do List](https://janainacustodio.github.io/To-do-list/javascript/index.html) 
+*Criado com  HTML5, CSS3 e JavaScript.*
 
 
