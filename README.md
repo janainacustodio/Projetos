@@ -5,7 +5,7 @@ Olá, me chamo Janaína.
 Aqui você vai encontar alguns dos meus projetos e objetos de estudo.
 
 * [Jogo](https://janainacustodio.github.io/Aquarium/)
-*JavaScript, HTML5 e CSS3.
+* JavaScript, HTML5 e CSS3.
 
 * [Calculadora IMC](https://janainacustodio.github.io/imc/)
 *JavaScript, HTML5 e CSS3.
