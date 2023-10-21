@@ -4,6 +4,9 @@ Meus projetos e estudos.
 Olá, me chamo Janaína.
 Aqui você vai encontar alguns dos meus projetos e objetos de estudo.
 
+* [Weather](https://janainacustodio.github.io/Weather-App/)
+*JavaScript, HTML5 e CSS3.*
+
 * [Jogo](https://janainacustodio.github.io/Aquarium/)
 *JavaScript, HTML5 e CSS3.*
 
